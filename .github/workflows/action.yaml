@@ -3,7 +3,7 @@ name: Hugo-Build
 on:
   push:
     branches:
-      - Hugo
+      - main
 permissions:
   contents: write
 jobs:
