@@ -1,37 +1,35 @@
-# 使用GitHub Actions自动部署Hugo博客
-name: Hugo-Build
+name: deploy
+
 on:
-  push:
-    branches:
-      - main
-permissions:
-  contents: write
+    push:
+    workflow_dispatch:
+    schedule:
+        # Runs everyday at 8:00 AM
+        - cron: "0 0 * * *"
+
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-      - name: Install Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: '0.129.0'
-          extended: false
-      - name: Hugo Build
-        run: |
-          git submodule update --init --remote --merge themes/PaperMod
-          hugo
-      # - name: Deploy
-      #   uses: peaceiris/actions-gh-pages@v3
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     publish_dir: ./public
-      #     cname: pilihu2022.github.io
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # secret 中设置好私钥
-          external_repository: TecReaGroup/TecReaGroup.github.io  # Page 仓库
-          publish_branch: gh-pages  # Page 仓库的分支
-          publish_dir: ./public # 静态网页路径
-          commit_message: ${{ github.event.head_commit.message }}
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+              with:
+                  submodules: true
+                  fetch-depth: 0
+
+            - name: Setup Hugo
+              uses: peaceiris/actions-hugo@v2
+              with:
+                  hugo-version: "latest"
+
+            - name: Build Web
+              run: hugo
+
+            - name: Deploy Web
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+                  EXTERNAL_REPOSITORY: TecReaGroup.github.io
+                  PUBLISH_BRANCH: main
+                  PUBLISH_DIR: ./public
+                  commit_message: ${{ github.event.head_commit.message }}
