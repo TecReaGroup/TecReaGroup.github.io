@@ -16,7 +16,7 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.135.0'
-          extended: true
+          extended: false
       - name: Hugo Build
         run: |
           git submodule update --init --remote --merge themes/PaperMod
