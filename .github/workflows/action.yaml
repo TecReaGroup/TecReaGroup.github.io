@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: Install Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.135.0'
           extended: false
@@ -28,7 +28,7 @@ jobs:
       #     publish_dir: ./public
       #     cname: pilihu2022.github.io
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v2
         with:
           branch: gh-pages
           folder: public
