@@ -6,7 +6,6 @@ tags:
   - Blog
 description: Test
 author: Me
-date: 2024-10-15T19:54+08:00
 dir: posts
 showToc: "true"
 ShowReadingTime: "true"
