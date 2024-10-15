@@ -1,7 +1,9 @@
 baseURL: "https://rouper.me"
 title: TRG's Blog
 theme: PaperMod
+languageCode: zh-cn
 
+hasCJKLanguage: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false

@@ -17,7 +17,13 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-15T09:23:36+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/intro/</loc>
+    <lastmod>2024-10-15T09:23:36+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2024-10-15T09:23:36+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/%E4%BD%A0%E5%A5%BD/</loc>
     <lastmod>2024-10-15T09:23:36+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
