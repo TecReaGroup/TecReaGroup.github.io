@@ -77,6 +77,8 @@ params:
       url: "https://linux.do/u/trg/summary"
     - name: github
       url: "https://github.com/TecReaGroup"
+    - name: rss
+      url: "https://rouper.me/posts/index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data

@@ -1,1 +1,1 @@
-[{"content":"Test doc Hello world! This is TRG\n","permalink":"http://localhost:1313/posts/test/","summary":"\u003ch1 id=\"test-doc\"\u003eTest doc\u003c/h1\u003e\n\u003cp\u003eHello world!\nThis is TRG\u003c/p\u003e","title":""}]
+[{"content":"Test doc Hello world! This is TRG.\n","permalink":"http://localhost:1313/posts/test/","summary":"\u003ch2 id=\"test-doc\"\u003eTest doc\u003c/h2\u003e\n\u003cp\u003eHello world!\nThis is TRG.\u003c/p\u003e","title":"Test"},{"content":"","permalink":"http://localhost:1313/categories/categories/","summary":"","title":"categories"}]
