@@ -5,8 +5,8 @@ languageCode: zh-cn
 
 hasCJKLanguage: true
 enableRobotsTXT: true
+buildFuture: true
 buildDrafts: false
-buildFuture: false
 buildExpired: false
 minify:
   disableXML: true

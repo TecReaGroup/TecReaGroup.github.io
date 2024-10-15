@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on TRG&#39;s Blog</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on TRG&#39;s Blog</description>
+    <title>Hello on TRG&#39;s Blog</title>
+    <link>http://localhost:1313/tags/hello/</link>
+    <description>Recent content in Hello on TRG&#39;s Blog</description>
     <image>
       <title>TRG&#39;s Blog</title>
       <url>https://avatars.githubusercontent.com/u/143636399?s=400&amp;u=cddf9938630951d73335f2f30e3afdd98d844098&amp;v=4</url>
@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 16 Oct 2024 12:16:04 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/categories/blog/</link>
-      <pubDate>Tue, 15 Oct 2024 09:23:36 +0800</pubDate>
-      <guid>http://localhost:1313/categories/blog/</guid>
-      <description></description>
+      <title>hello</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;git reset &amp;ndash;hard origin/branch_name&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
