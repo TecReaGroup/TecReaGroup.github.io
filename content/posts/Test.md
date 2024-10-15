@@ -5,7 +5,7 @@ category: Blog
 tags:
   - Blog
 description: Test
-author: Me
+author: TRG
 dir: posts
 showToc: "true"
 ShowReadingTime: "true"
