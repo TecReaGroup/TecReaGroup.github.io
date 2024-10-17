@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 params:
-  dateFormat : "2 Jan 2006"
+  dateFormat : "02 Jan 2006"
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: TRG's Blog
   description: "TRG's Blog"
