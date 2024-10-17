@@ -151,6 +151,11 @@ hugo server -D
 
 ![Enveloppe Github Pages.png](/images/Enveloppe%20Github%20Pages.png)
 
+#### DNS
+
+将自己域名填入 Custom domain, 再在 Cloudflare 中添加以下记录: 
+
+![Cloudflare DNS.png](/images/Cloudflare%20DNS.png)
 ## Obsidian 安装 & 配置
 
 官网安装 [Obsidian]({{< relref "https://obsidian.md" >}}/)
