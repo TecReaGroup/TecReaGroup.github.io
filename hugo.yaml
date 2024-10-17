@@ -13,11 +13,12 @@ minify:
   minifyOutput: true
 
 params:
+  dateFormat : "2 Jan 2006"
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: TRG's Blog
   description: "TRG's Blog"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: TRG
   # author: ["Me", "You"] # multiple authors
   images: ["https://avatars.githubusercontent.com/u/143636399?s=400&u=cddf9938630951d73335f2f30e3afdd98d844098&v=4"]
   DateFormat: "October 15, 2024"
@@ -58,7 +59,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: TRG
-    subtitle: "Welcome here."
+    subtitle: "May stand unshaken, amid a crashing world."
     imageUrl: "https://avatars.githubusercontent.com/u/143636399?s=400&u=cddf9938630951d73335f2f30e3afdd98d844098&v=4"
     imageWidth: 120
     imageHeight: 120

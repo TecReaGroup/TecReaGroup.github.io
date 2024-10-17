@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on TRG&#39;s Blog</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on TRG&#39;s Blog</description>
+    <title>Github on TRG&#39;s Blog</title>
+    <link>http://localhost:1313/tags/github/</link>
+    <description>Recent content in Github on TRG&#39;s Blog</description>
     <image>
       <title>TRG&#39;s Blog</title>
       <url>https://avatars.githubusercontent.com/u/143636399?s=400&amp;u=cddf9938630951d73335f2f30e3afdd98d844098&amp;v=4</url>
@@ -12,13 +12,13 @@
     <generator>Hugo -- 0.135.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 17 Oct 2024 03:21:28 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/categories/blog/</link>
+      <title>个人博客搭建 Hugo &amp; Obsidian &amp; Github</title>
+      <link>http://localhost:1313/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-hugo--obsidian--github/</link>
       <pubDate>Thu, 17 Oct 2024 03:21:28 +0800</pubDate>
-      <guid>http://localhost:1313/categories/blog/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-hugo--obsidian--github/</guid>
+      <description>个人博客搭建记录</description>
     </item>
   </channel>
 </rss>
