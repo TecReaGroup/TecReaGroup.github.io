@@ -98,7 +98,7 @@ hugo new post <name>
 配置步骤详见: [PaperMod](https://adityatelange.github.io/hugo-PaperMod/)
 
 注意: 
-- 时间格式(参考下方代码)
+- 时间格式(参考下方代码), 更多信息 [time.Format](https://gohugo.io/functions/time/format/)
 
 参考文章模板 (Obsidian 建议创建相同的模板): 
 ```md
