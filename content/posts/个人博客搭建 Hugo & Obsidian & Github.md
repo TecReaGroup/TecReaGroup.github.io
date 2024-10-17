@@ -47,10 +47,11 @@ Windows 则选择例如: `hugo_0.135.0_Windows-64bit.zip`
 ### 验证
 
 在命令行中查询 Hugo 版本来验证: (若无特殊说明, Shell 命令默认于 Hugo 创建的项目主文件夹下)
+
 ```shell
 hugo version
 ```
-    
+
 ### 文件介绍
 
 需要创建缺少的文件
@@ -63,7 +64,6 @@ title: "Search"
 layout: search
 ---
 ```
-
   - **`content/categories/categories.md`**: 用于启用 categories 分类
 ```md
 ---
@@ -84,6 +84,7 @@ layout: "categories"
 
 参考 [PaperMod](https://adityatelange.github.io/hugo-PaperMod/) 进行配置
 注意:
+
 - `buildFuture: true` 防止时区问题导致的渲染问题(发布时间于未来则不渲染)
 
 参考个人配置文件 [Hugo.yaml](https://github.com/TecReaGroup/TecReaGroup.github.io/blob/main/hugo.yaml) (按需要根据自己情况修改):
@@ -91,16 +92,18 @@ layout: "categories"
 ### 创建文章
 
 创建文章命令:
+
 ```shell
 hugo new post <name>
 ```
 
 配置步骤详见: [PaperMod](https://adityatelange.github.io/hugo-PaperMod/)
-
 注意: 
-- 时间格式(参考下方代码), 更多信息 [time.Format](https://gohugo.io/functions/time/format/)
+
+- 时间格式(参考下方代码, 若配置错误, 可能导致渲染失败), 更多信息 [time.Format](https://gohugo.io/functions/time/format/)
 
 参考文章模板 (Obsidian 建议创建相同的模板): 
+
 ```md
 ---
 title: 博客介绍
@@ -124,6 +127,7 @@ date: 2024-10-16T12:16:04+08:00
 ### 测试网页
 
 在博客主文件夹下运行命令: 
+
 ```shell
 hugo server -D
 ```
@@ -144,7 +148,9 @@ hugo server -D
 
 将 Source 选择为 Github Actions
 
+
 ![Enveloppe Github Pages.png](/images/Enveloppe%20Github%20Pages.png)
+
 ## Obsidian 安装 & 配置
 
 官网安装 [Obsidian]({{< relref "https://obsidian.md" >}}/)
