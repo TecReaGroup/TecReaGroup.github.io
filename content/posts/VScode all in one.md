@@ -22,19 +22,24 @@ UseHugoToc: "true"
 - Python 语法, 代码风格 插件: flake8
 
 ## Cpp 配置
+
 https://www.cnblogs.com/mie9/p/17962241
 
 ## Python 配置
+
 https://zhuanlan.zhihu.com/p/165379391
 
 ## Java 配置
+
 https://zhuanlan.zhihu.com/p/681106842
 
 ## Web 开发 配置
+
 -  https://docs.geeksman.com/front-end/1.front-end-html.html#%E8%AF%AD%E6%B3%95
 -  https://zhuanlan.zhihu.com/p/113222681
 
 ## Markdown 配置
+
 https://zhuanlan.zhihu.com/p/678655064
 
 
