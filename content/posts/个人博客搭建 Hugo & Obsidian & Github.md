@@ -18,16 +18,16 @@ ShowWordCount: "true"
 ShowRssButtonInSectionTermList: "true"
 UseHugoToc: "true"
 ---
-主流程:
+**主流程: **
 
 ![Blog Flow.png](/images/Blog%20Flow.png)
 
-笔记软件: [Obsidian]({{< relref "https://obsidian.md" >}}/)
-框架: [Hugo](https://gohugo.io/)
-主题:  [PaperMod](https://adityatelange.github.io/hugo-PaperMod/) (不同主题可能有不同的配置需求)
-远程同步: [Git](https://git-scm.com/)
-渲染&发布: Github Action & Github Page
-Dns托管: [Cloudflare](https://cloudflare.com/)
+- 笔记软件: [Obsidian]({{< relref "https://obsidian.md" >}}/)
+- 框架: [Hugo](https://gohugo.io/)
+- 主题:  [PaperMod](https://adityatelange.github.io/hugo-PaperMod/) (不同主题可能有不同的配置需求)
+- 远程同步: [Git](https://git-scm.com/)
+- 渲染&发布: Github Action & Github Page
+- Dns托管: [Cloudflare](https://cloudflare.com/)
 
 ## Hugo 安装 & 配置
 
