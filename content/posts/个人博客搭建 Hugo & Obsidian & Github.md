@@ -18,7 +18,7 @@ ShowWordCount: "true"
 ShowRssButtonInSectionTermList: "true"
 UseHugoToc: "true"
 ---
-**主流程: **
+**主流程:**
 
 ![Blog Flow.png](/images/Blog%20Flow.png)
 
