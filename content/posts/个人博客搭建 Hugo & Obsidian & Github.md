@@ -27,7 +27,7 @@ UseHugoToc: "true"
 - 主题:  [PaperMod](https://adityatelange.github.io/hugo-PaperMod/) (不同主题可能有不同的配置需求)
 - 远程同步: [Git](https://git-scm.com/)
 - 渲染&发布: Github Action & Github Page
-- Dns托管: [Cloudflare](https://cloudflare.com/)
+- Dns托管: [Cloudflare](https://cloudflare.com/) 
 
 ## Hugo 安装 & 配置
 
