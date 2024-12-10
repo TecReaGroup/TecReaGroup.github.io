@@ -43,15 +43,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "./static/icon.svg"
-    favicon16x16: "./static/icon.svg"
-    favicon32x32: "./static/icon.svg"
-    apple_touch_icon: "./static/icon.svg"
-    safari_pinned_tab: "./static/icon.svg"
+    favicon: "/icon.png"
+    favicon16x16: "/icon.png"
+    favicon32x32: "/icon.png"
+    apple_touch_icon: "/icon.png"
+    safari_pinned_tab: "/icon.png"
 
   label:
     text: "TRG's Blog"
-    icon: "./static/icon.svg"
+    icon: "/icon.png"
     iconHeight: 35
 
   # profile-mode
