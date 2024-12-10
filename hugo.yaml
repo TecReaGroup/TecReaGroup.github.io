@@ -1,4 +1,4 @@
-baseURL: "https://rouper.me"
+baseURL: "https://blog.rouper.site"
 title: TRG's Blog
 theme: PaperMod
 languageCode: zh-cn
@@ -80,7 +80,7 @@ params:
     - name: github
       url: "https://github.com/TecReaGroup"
     - name: rss
-      url: "https://rouper.me/posts/index.xml"
+      url: "https://blog.rouper.site/posts/index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data
