@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obsidian on TRG&#39;s Blog</title>
     <link>http://localhost:1313/tags/obsidian/</link>
     <description>Recent content in Obsidian on TRG&#39;s Blog</description>
-    <image>
-      <title>TRG&#39;s Blog</title>
-      <url>https://avatars.githubusercontent.com/u/143636399?s=400&amp;u=cddf9938630951d73335f2f30e3afdd98d844098&amp;v=4</url>
-      <link>https://avatars.githubusercontent.com/u/143636399?s=400&amp;u=cddf9938630951d73335f2f30e3afdd98d844098&amp;v=4</link>
-    </image>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 17 Oct 2024 03:21:28 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,7 @@
       <link>http://localhost:1313/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-hugo--obsidian--github/</link>
       <pubDate>Thu, 17 Oct 2024 03:21:28 +0800</pubDate>
       <guid>http://localhost:1313/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-hugo--obsidian--github/</guid>
-      <description>个人博客搭建记录</description>
+      <description>&lt;p&gt;&lt;strong&gt;主流程:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Blog%20Flow.png&#34; alt=&#34;Blog Flow.png&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;笔记软件: &lt;a href=&#34;http://localhost:1313/&#34;&gt;Obsidian&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;框架: &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;主题:  &lt;a href=&#34;https://adityatelange.github.io/hugo-PaperMod/&#34;&gt;PaperMod&lt;/a&gt; (不同主题可能有不同的配置需求)&lt;/li&gt;&#xA;&lt;li&gt;远程同步: &lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;渲染&amp;amp;发布: Github Action &amp;amp; Github Page&lt;/li&gt;&#xA;&lt;li&gt;Dns托管: &lt;a href=&#34;https://cloudflare.com/&#34;&gt;Cloudflare&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;hugo-安装--配置&#34;&gt;Hugo 安装 &amp;amp; 配置&lt;/h2&gt;&#xA;&lt;h3 id=&#34;下载&#34;&gt;下载&lt;/h3&gt;&#xA;&lt;p&gt;首先在 &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;Release&lt;/a&gt; 下载最新版本的 Hugo 压缩包 (Blog 写于 Hugo 0.135.0 版本)&#xA;Windows 则选择例如: &lt;code&gt;hugo_0.135.0_Windows-64bit.zip&lt;/code&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

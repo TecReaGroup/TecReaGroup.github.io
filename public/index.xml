@@ -1,37 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TRG&#39;s Blog</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on TRG&#39;s Blog</description>
-    <image>
-      <title>TRG&#39;s Blog</title>
-      <url>https://avatars.githubusercontent.com/u/143636399?s=400&amp;u=cddf9938630951d73335f2f30e3afdd98d844098&amp;v=4</url>
-      <link>https://avatars.githubusercontent.com/u/143636399?s=400&amp;u=cddf9938630951d73335f2f30e3afdd98d844098&amp;v=4</link>
-    </image>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 17 Oct 2024 03:21:28 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 08:04:31 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VScode all in one 配置</title>
+      <link>http://localhost:1313/posts/vscode-all-in-one-%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 21 Oct 2024 08:04:31 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vscode-all-in-one-%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;h2 id=&#34;算法竞赛环境&#34;&gt;算法竞赛环境:&lt;/h2&gt;&#xA;&lt;p&gt;ICPC environment:&#xA;&lt;a href=&#34;https://docs.icpc.global/worldfinals-programming-environment/&#34;&gt;https://docs.icpc.global/worldfinals-programming-environment/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;vscode-插件推荐&#34;&gt;VScode 插件推荐&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI 插件: Github Copilot&lt;/li&gt;&#xA;&lt;li&gt;Git 相关插件&lt;/li&gt;&#xA;&lt;li&gt;Python 语法, 代码风格 插件: Flake8&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cc-配置&#34;&gt;C/C++ 配置&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stay-curious.win/2021/08/06/config-mingw64-for-vs-code-on-windows/&#34;&gt;https://stay-curious.win/2021/08/06/config-mingw64-for-vs-code-on-windows/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;python-配置&#34;&gt;Python 配置&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/165379391&#34;&gt;https://zhuanlan.zhihu.com/p/165379391&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;java-配置&#34;&gt;Java 配置&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/681106842&#34;&gt;https://zhuanlan.zhihu.com/p/681106842&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;web-开发-配置&#34;&gt;Web 开发 配置&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.geeksman.com/front-end/1.front-end-html.html#%E8%AF%AD%E6%B3%95&#34;&gt;https://docs.geeksman.com/front-end/1.front-end-html.html#%E8%AF%AD%E6%B3%95&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/113222681&#34;&gt;https://zhuanlan.zhihu.com/p/113222681&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;markdown-配置&#34;&gt;Markdown 配置&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/678655064&#34;&gt;https://zhuanlan.zhihu.com/p/678655064&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>个人博客搭建 Hugo &amp; Obsidian &amp; Github</title>
       <link>http://localhost:1313/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-hugo--obsidian--github/</link>
       <pubDate>Thu, 17 Oct 2024 03:21:28 +0800</pubDate>
       <guid>http://localhost:1313/posts/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA-hugo--obsidian--github/</guid>
-      <description>个人博客搭建记录</description>
+      <description>&lt;p&gt;&lt;strong&gt;主流程:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Blog%20Flow.png&#34; alt=&#34;Blog Flow.png&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;笔记软件: &lt;a href=&#34;http://localhost:1313/&#34;&gt;Obsidian&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;框架: &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;主题:  &lt;a href=&#34;https://adityatelange.github.io/hugo-PaperMod/&#34;&gt;PaperMod&lt;/a&gt; (不同主题可能有不同的配置需求)&lt;/li&gt;&#xA;&lt;li&gt;远程同步: &lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;渲染&amp;amp;发布: Github Action &amp;amp; Github Page&lt;/li&gt;&#xA;&lt;li&gt;Dns托管: &lt;a href=&#34;https://cloudflare.com/&#34;&gt;Cloudflare&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;hugo-安装--配置&#34;&gt;Hugo 安装 &amp;amp; 配置&lt;/h2&gt;&#xA;&lt;h3 id=&#34;下载&#34;&gt;下载&lt;/h3&gt;&#xA;&lt;p&gt;首先在 &lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;Release&lt;/a&gt; 下载最新版本的 Hugo 压缩包 (Blog 写于 Hugo 0.135.0 版本)&#xA;Windows 则选择例如: &lt;code&gt;hugo_0.135.0_Windows-64bit.zip&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>博客介绍</title>
       <link>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/</link>
       <pubDate>Wed, 16 Oct 2024 12:16:04 +0800</pubDate>
       <guid>http://localhost:1313/posts/%E5%8D%9A%E5%AE%A2%E4%BB%8B%E7%BB%8D/</guid>
-      <description>博客介绍</description>
+      <description>&lt;p&gt;啊哈，终于也算是有个人博客了，以后会在此处更新技术博客。&#xA;希望对你能有所帮助，或者单纯作为个人的备忘录，hhha。&lt;/p&gt;&#xA;&lt;p&gt;（思考要不要写日记，记录生活？再思考一段时间吧。。。）&lt;/p&gt;</description>
     </item>
     <item>
       <title>categories</title>
       <link>http://localhost:1313/categories/categories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/categories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
       <description></description>
     </item>
   </channel>

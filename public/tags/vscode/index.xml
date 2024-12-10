@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VScode on TRG&#39;s Blog</title>
+    <link>http://localhost:1313/tags/vscode/</link>
+    <description>Recent content in VScode on TRG&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 21 Oct 2024 08:04:31 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VScode all in one 配置</title>
+      <link>http://localhost:1313/posts/vscode-all-in-one-%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Mon, 21 Oct 2024 08:04:31 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vscode-all-in-one-%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;h2 id=&#34;算法竞赛环境&#34;&gt;算法竞赛环境:&lt;/h2&gt;&#xA;&lt;p&gt;ICPC environment:&#xA;&lt;a href=&#34;https://docs.icpc.global/worldfinals-programming-environment/&#34;&gt;https://docs.icpc.global/worldfinals-programming-environment/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;vscode-插件推荐&#34;&gt;VScode 插件推荐&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI 插件: Github Copilot&lt;/li&gt;&#xA;&lt;li&gt;Git 相关插件&lt;/li&gt;&#xA;&lt;li&gt;Python 语法, 代码风格 插件: Flake8&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cc-配置&#34;&gt;C/C++ 配置&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://stay-curious.win/2021/08/06/config-mingw64-for-vs-code-on-windows/&#34;&gt;https://stay-curious.win/2021/08/06/config-mingw64-for-vs-code-on-windows/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;python-配置&#34;&gt;Python 配置&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/165379391&#34;&gt;https://zhuanlan.zhihu.com/p/165379391&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;java-配置&#34;&gt;Java 配置&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/681106842&#34;&gt;https://zhuanlan.zhihu.com/p/681106842&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;web-开发-配置&#34;&gt;Web 开发 配置&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.geeksman.com/front-end/1.front-end-html.html#%E8%AF%AD%E6%B3%95&#34;&gt;https://docs.geeksman.com/front-end/1.front-end-html.html#%E8%AF%AD%E6%B3%95&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/113222681&#34;&gt;https://zhuanlan.zhihu.com/p/113222681&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;markdown-配置&#34;&gt;Markdown 配置&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/678655064&#34;&gt;https://zhuanlan.zhihu.com/p/678655064&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
