@@ -43,15 +43,15 @@ params:
   assets:
     disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/icon.png"
-    favicon16x16: "/icon.png"
-    favicon32x32: "/icon.png"
-    apple_touch_icon: "/icon.png"
-    safari_pinned_tab: "/icon.png"
+    favicon: "https://github.com/TecReaGroup/TecReaGroup.github.io/blob/main/static/icon.svg"
+    favicon16x16: "https://github.com/TecReaGroup/TecReaGroup.github.io/blob/main/static/icon.svg"
+    favicon32x32: "https://github.com/TecReaGroup/TecReaGroup.github.io/blob/main/static/icon.svg"
+    apple_touch_icon: "https://github.com/TecReaGroup/TecReaGroup.github.io/blob/main/static/icon.svg"
+    safari_pinned_tab: "https://github.com/TecReaGroup/TecReaGroup.github.io/blob/main/static/icon.svg"
 
   label:
     text: "TRG's Blog"
-    icon: "/icon.png"
+    icon: "https://github.com/TecReaGroup/TecReaGroup.github.io/blob/main/static/icon.svg"
     iconHeight: 35
 
   # profile-mode
