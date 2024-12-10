@@ -42,15 +42,15 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "/icon.svg"
-    favicon16x16: "/icon.svg"
-    favicon32x32: "/icon.svg"
-    apple_touch_icon: "/icon.svg"
-    safari_pinned_tab: "/icon.svg"
+    favicon: "https://blog.rouper.site/"
+    favicon16x16: "https://blog.rouper.site/"
+    favicon32x32: "https://blog.rouper.site/"
+    apple_touch_icon: "https://blog.rouper.site/"
+    safari_pinned_tab: "https://blog.rouper.site/"
 
   label:
     text: "TRG's Blog"
-    icon: "/icon.svg"
+    icon: "https://blog.rouper.site/"
     iconHeight: 35
 
   # profile-mode
