@@ -1,6 +1,6 @@
 ---
 title: 学习资源汇总
-share: "True"
+share: "true"
 categories:
   - Blog
 tags:
