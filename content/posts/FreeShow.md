@@ -8,7 +8,7 @@ tags:
   - FreeShow
   - 导播
 description: Freeshow 教程
-author: TRG
+author: 凝事
 dir: posts
 date: 2025-02-07T01:09:21+08:00
 showToc: "true"
@@ -20,7 +20,7 @@ UseHugoToc: "true"
 
 本文为简单介绍 FreeShow 以及快速使用, 下载以及更多详细教程请查阅 [FreeShow 官网](https://freeshow.app/docs/introduction)
 
-录制的对应视频教学: 
+录制的对应视频教学: https://www.bilibili.com/video/BV1f7KWegEoJ/?vd_source=957aa241e7d451104618a996073d64fb
 
 资源汇总的百度网盘链接贴于末尾
 
@@ -101,7 +101,7 @@ FreeShow 是一款免费开源的演示程序，可以轻松地在大屏幕上�
 
 ## 资源汇总(百度网盘)
 
-FreeShow, 视频素材, 圣经, 边框等导播编辑素材: 
+FreeShow, 视频素材, 圣经, 边框等导播编辑素材: https://pan.baidu.com/s/1hzZjkgEjK8kkHVVL2i5z6g?pwd=tj3i 提取码: tj3i
 
 ## 后记
 
