@@ -106,12 +106,13 @@ FreeShow, 视频素材, 圣经, 边框等导播编辑素材: https://pan.baidu.c
 ## 后记
 
 1. FreeShow 的投屏有限, 可以另开一台设备 OBS 进行推流和投影
+2. 支持基于网络远程控制和投影
 
 
 ---
 ## 参考资料
 
-1. 官网: https://freeshow.app/
-1. Github 项目地址: https://github.com/ChurchApps/FreeShow
-2. Youtube 教学视频: https://www.youtube.com/watch?v=9_1lUNcrU1w
-3. 教学文档: https://freeshow.app/docs/introduction
+3. 官网: https://freeshow.app/
+4. Github 项目地址: https://github.com/ChurchApps/FreeShow
+5. Youtube 教学视频: https://www.youtube.com/watch?v=9_1lUNcrU1w
+6. 教学文档: https://freeshow.app/docs/introduction
