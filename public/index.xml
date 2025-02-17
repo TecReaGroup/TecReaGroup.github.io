@@ -8,6 +8,10 @@
     <language>zh-cn</language>
     <lastBuildDate>Mon, 21 Oct 2024 08:04:31 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <follow_challenge>
+      <feedId>114306073028161536</feedId>
+      <userId>67068291482284032</userId>
+    </follow_challenge>
     <item>
       <title>VScode all in one 配置</title>
       <link>http://localhost:1313/posts/vscode-all-in-one-%E9%85%8D%E7%BD%AE/</link>
