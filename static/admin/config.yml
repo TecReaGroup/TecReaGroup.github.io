@@ -1,0 +1,33 @@
+backend:
+  name: github # 或 gitlab, bitbucket
+  repo: TecReaGroup/TecReaGroup.github.io # 替换为你的 GitHub 用户名和仓库名
+  branch: main # 或者你的主分支名，比如 master
+  # 可选: 如果你的 GitHub 仓库是私有的，可能需要配置 API 网关或使用 Netlify Identity
+  # site_domain: your-site-domain.com # 如果使用 Netlify Identity
+
+media_folder: "static/images" # Hugo 中媒体文件存储的路径 (相对于项目根目录)
+public_folder: "/images"    # Hugo 生成后，媒体文件在网站上的访问路径
+
+
+# 内容集合 (Collections)
+collections:
+  - name: "posts" # Collection 的内部标识符，可以自定义
+    label: "Blog" # 在 CMS 界面中显示的名称
+    folder: "content/posts" # Hugo 中此类型内容文件的存储目录
+    create: true # 允许通过 CMS 创建新博文
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # 新建博文的文件名和 URL slug 生成规则
+    # 定义 Front Matter 字段
+    fields:
+      - {label: "Title", name: "title", widget: "string", hint: "文章的主标题"}
+      - {label: "Share", name: "share", widget: "boolean", default: true, hint: "是否允许分享，通常主题会用此控制分享按钮的显示"} # 你的例子是 "true" 字符串，但布尔值更合适
+      - {label: "Categories", name: "categories", widget: "list", default: ["Blog"], hint: "文章所属的分类，可以有多个"}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, hint: "文章的标签，可以有多个，允许添加新标签"}
+      - {label: "Description", name: "description", widget: "text", hint: "文章的简短描述, 用于SEO或摘要显示"}
+      - {label: "Author", name: "author", widget: "string", default: "TRG", hint: "文章的作者名"}
+      - {label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", hint: "文章的发布日期和时间，请确保时区正确"} # 你的格式包含时区
+      - {label: "Show Table of Contents", name: "showToc", widget: "boolean", default: true, hint: "是否显示文章目录 (TOC)"}
+      - {label: "Show Reading Time", name: "ShowReadingTime", widget: "boolean", default: true, hint: "是否显示预计阅读时间"}
+      - {label: "Show Word Count", name: "ShowWordCount", widget: "boolean", default: true, hint: "是否显示文章字数"}
+      - {label: "Show RSS Button in Section Term List", name: "ShowRssButtonInSectionTermList", widget: "boolean", default: true, hint: "是否在分类/标签列表页显示RSS订阅按钮"}
+      - {label: "Use Hugo Toc", name: "UseHugoToc", widget: "boolean", default: true, hint: "是否使用 Hugo 的内置 TOC 功能"}
+      - {label: "Body", name: "body", widget: "markdown", hint: "文章的主要内容，使用 Markdown 格式编写"}
