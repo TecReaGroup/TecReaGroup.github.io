@@ -1,4 +1,4 @@
-baseURL: "https://blog.rouper.site"
+baseURL: "https://blogs.rouper.site"
 title: TRG's Blog
 theme: PaperMod
 languageCode: zh-cn
@@ -42,15 +42,15 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "https://blog.rouper.site/icon.svg"
-    favicon16x16: "https://blog.rouper.site/icon.svg"
-    favicon32x32: "https://blog.rouper.site/icon.svg"
-    apple_touch_icon: "https://blog.rouper.site/icon.svg"
-    safari_pinned_tab: "https://blog.rouper.site/icon.svg"
+    favicon: "https://blogs.rouper.site/icon.svg"
+    favicon16x16: "https://blogs.rouper.site/icon.svg"
+    favicon32x32: "https://blogs.rouper.site/icon.svg"
+    apple_touch_icon: "https://blogs.rouper.site/icon.svg"
+    safari_pinned_tab: "https://blogs.rouper.site/icon.svg"
 
   label:
     text: "TRG's Blog"
-    icon: "https://blog.rouper.site/icon.svg"
+    icon: "https://blogs.rouper.site/icon.svg"
     iconHeight: 35
 
   # profile-mode
@@ -79,7 +79,7 @@ params:
     - name: github
       url: "https://github.com/TecReaGroup"
     - name: rss
-      url: "https://blog.rouper.site/posts/index.xml"
+      url: "https://blogs.rouper.site/posts/index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data
