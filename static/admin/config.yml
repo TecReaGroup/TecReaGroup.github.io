@@ -7,7 +7,7 @@ backend:
 
 media_folder: "static/images" # Hugo 中媒体文件存储的路径 (相对于项目根目录)
 public_folder: "/images"    # Hugo 生成后，媒体文件在网站上的访问路径
-logo_url: "../icon.png" 
+logo_url: "/icon.png" 
 
 
 # 内容集合 (Collections)
