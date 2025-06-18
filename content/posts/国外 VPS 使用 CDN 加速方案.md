@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - Blog
+  - CDN
 description: 国外 VPS 使用 CDN 加速方案
 author: TRG
 dir: posts
@@ -75,3 +76,10 @@ A：尝试了许多发现还是用线路机中转比较稳定
 - 用户 → 国内 阿里云 CDN 节点 → 源站 回源线路太慢了  
 - 用户 → 国内 阿里云 CDN 节点 → cf优选 → 源站 不知道为什么带宽很小  
 - 用户 → 国内 阿里云 CDN 节点 → 国外 阿里云 CDN 节点 → cf优选 → 源站 延迟高，带宽小，猜测阿里云内外流量走的普通线路
+
+## 总结
+
+使用 Azure HK 中转，延迟和带宽还是很不错的
+
+![Delay.png](/images/Delay.png)
+![Bindwidth.png](/images/Bindwidth.png)
