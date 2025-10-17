@@ -65,7 +65,7 @@ A：尝试了许多发现还是用线路机中转比较稳定
 因为已经是国际流量了就不用优选什么的了
 直接配置 访问域名 回源到 源站域名（源站开启 Cloudflare 代理优化线路）
 
-![Cloudflare origin.png](./images/Cloudflare%20origin.png)
+![Cloudflare origin.png](/images/Cloudflare%20origin.png)
 
 #### 不想处理端口什么的，统一源服务器转发代理
 
