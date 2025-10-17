@@ -45,7 +45,7 @@ A：尝试了许多发现还是用线路机中转比较稳定
 那么加上国外线路机就是 `源 VPS <- Cloudflare <- 中转机 <- 用户`
 
 ## 个人实际方案
-![CDN.png](./images/%E5%9B%BD%E5%A4%96%20VPS%20%E4%BD%BF%E7%94%A8%20CDN%20%E5%8A%A0%E9%80%9F%E6%96%B9%E6%A1%88/CDN.png)
+![CDN.png](/images/CDN.png)
 
 ### 注意
 #### 中转节点 到 Cloudflare 的 Nginx 代理
@@ -56,8 +56,8 @@ A：尝试了许多发现还是用线路机中转比较稳定
 2. 注意开启 `SNI`（截图里 `proxy_ssl_server_name on;`） 不然 `Cloudflare 502`
 3. 追求速度而不在意缓存，所以关闭了 buffer（即 流式模式），反正 Cloudflare 已经有一层缓存了
 4. 然后 Cloudflare 里面开个 中转服务器白名单
-![Nginx Proxy Manager.png](./images/%E5%9B%BD%E5%A4%96%20VPS%20%E4%BD%BF%E7%94%A8%20CDN%20%E5%8A%A0%E9%80%9F%E6%96%B9%E6%A1%88/Nginx%20Proxy%20Manager.png)
-![Cloudflare ip access.png](./images/%E5%9B%BD%E5%A4%96%20VPS%20%E4%BD%BF%E7%94%A8%20CDN%20%E5%8A%A0%E9%80%9F%E6%96%B9%E6%A1%88/Cloudflare%20ip%20access.png)
+![Nginx Proxy Manager.png](/images/Nginx%20Proxy%20Manager.png)
+![Cloudflare ip access.png](/images/Cloudflare%20ip%20access.png)
 
 
 #### Cloudflare 回源
@@ -81,5 +81,5 @@ A：尝试了许多发现还是用线路机中转比较稳定
 
 使用 Azure HK 中转，延迟和带宽还是很不错的
 
-![Delay.png](./images/%E5%9B%BD%E5%A4%96%20VPS%20%E4%BD%BF%E7%94%A8%20CDN%20%E5%8A%A0%E9%80%9F%E6%96%B9%E6%A1%88/Delay.png)
-![Bindwidth.png](./images/%E5%9B%BD%E5%A4%96%20VPS%20%E4%BD%BF%E7%94%A8%20CDN%20%E5%8A%A0%E9%80%9F%E6%96%B9%E6%A1%88/Bindwidth.png)
+![Delay.png](/images/Delay.png)
+![Bindwidth.png](/images/Bindwidth.png)
