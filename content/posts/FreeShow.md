@@ -39,7 +39,7 @@ FreeShow 是一款免费开源的演示程序，可以轻松地在大屏幕上�
 
 ### 主界面
 
-![FreeShow 主界面 1.png](./images/FreeShow/FreeShow%20%E4%B8%BB%E7%95%8C%E9%9D%A2%201.png)
+![FreeShow 主界面 1.png](/images/FreeShow%20%E4%B8%BB%E7%95%8C%E9%9D%A2%201.png)
 
 ### 基本功能
 #### 创建项目和节目
@@ -48,21 +48,21 @@ FreeShow 是一款免费开源的演示程序，可以轻松地在大屏幕上�
 2. 复制歌词进入(注意空白行为分割)
 3. 确认后自动生成幻灯片
 
-![Pasted image 20250207134823.png](./images/FreeShow/Pasted%20image%2020250207134823.png)
-![Pasted image 20250207134933.png](./images/FreeShow/Pasted%20image%2020250207134933.png)
-![Pasted image 20250207135237.png](./images/FreeShow/Pasted%20image%2020250207135237.png)
+![Pasted image 20250207134823.png](/images/Pasted%20image%2020250207134823.png)
+![Pasted image 20250207134933.png](/images/Pasted%20image%2020250207134933.png)
+![Pasted image 20250207135237.png](/images/Pasted%20image%2020250207135237.png)
 
 #### 设置背景
 
 进入下方媒体后选择对应的素材点击即可右上角会有对应的预览
 
-![Pasted image 20250207135545.png](./images/FreeShow/Pasted%20image%2020250207135545.png)
+![Pasted image 20250207135545.png](/images/Pasted%20image%2020250207135545.png)
 
 #### 开始投影
 
 点击右上角这个按钮开始投影
 
-![Pasted image 20250207135643.png](./images/FreeShow/Pasted%20image%2020250207135643.png)
+![Pasted image 20250207135643.png](/images/Pasted%20image%2020250207135643.png)
 
 ### 常用功能
 
@@ -71,7 +71,7 @@ FreeShow 是一款免费开源的演示程序，可以轻松地在大屏幕上�
 圣经下载地址: [Bible_Chinese_CUVS)](https://github.com/TecReaGroup/Bible_Chinese_CUVS/blob/main/Bible_Chinese_CUVS.xml), 需要科学上网, 无途径请打开最后的百度网盘资源汇总
 下载好后, 点击圣经 从本地导入
 
-![Pasted image 20250207141345.png](./images/FreeShow/Pasted%20image%2020250207141345.png)
+![Pasted image 20250207141345.png](/images/Pasted%20image%2020250207141345.png)
 
 #### 设置提词器
 
@@ -79,8 +79,8 @@ FreeShow 是一款免费开源的演示程序，可以轻松地在大屏幕上�
 2. 然后需要配置一下提词器的屏幕(这意味着需要两块外接屏幕)
 3. 配置好后可以在右上角查看到两块屏幕投影和提词器(一左一右)
 
-![Pasted image 20250207140039.png](./images/FreeShow/Pasted%20image%2020250207140039.png)
-![Pasted image 20250207140135.png](./images/FreeShow/Pasted%20image%2020250207140135.png)
+![Pasted image 20250207140039.png](/images/Pasted%20image%2020250207140039.png)
+![Pasted image 20250207140135.png](/images/Pasted%20image%2020250207140135.png)
 
 #### 编辑
 
@@ -91,13 +91,13 @@ FreeShow 是一款免费开源的演示程序，可以轻松地在大屏幕上�
 
 打开节目时点击模板, 就会用模板中的样式覆盖节目中的样式(演示程序会记住模板, 因此如果你编辑模板，它也会随时更新)
 
-![Pasted image 20250207140543.png](./images/FreeShow/Pasted%20image%2020250207140543.png)
+![Pasted image 20250207140543.png](/images/Pasted%20image%2020250207140543.png)
 
 #### 设置倒计时
 
 选中后拖入
 
-![Pasted image 20250207141049.png](./images/FreeShow/Pasted%20image%2020250207141049.png)
+![Pasted image 20250207141049.png](/images/Pasted%20image%2020250207141049.png)
 
 ## 资源汇总(百度网盘)
 
