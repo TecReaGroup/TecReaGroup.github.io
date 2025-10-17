@@ -20,7 +20,7 @@ UseHugoToc: "true"
 ---
 **主流程:**
 
-![Blog Flow.png](/images/Blog%20Flow.png)
+![Blog Flow.png](./images/Blog%20Flow.png)
 
 - 笔记软件: [Obsidian]({{< relref "https://obsidian.md" >}}/)
 - 框架: [Hugo](https://gohugo.io/)
@@ -149,13 +149,13 @@ hugo server -D
 将 Source 选择为 Github Actions
 
 
-![Enveloppe Github Pages.png](/images/Enveloppe%20Github%20Pages.png)
+![Enveloppe Github Pages.png](./images/Enveloppe%20Github%20Pages.png)
 
 #### DNS
 
 将自己域名填入 Custom domain, 再在 Cloudflare 中添加以下记录: 
 
-![Cloudflare DNS.png](/images/Cloudflare%20DNS.png)
+![Cloudflare DNS.png](./images/Cloudflare%20DNS.png)
 ## Obsidian 安装 & 配置
 
 官网安装 [Obsidian]({{< relref "https://obsidian.md" >}}/)
@@ -164,15 +164,15 @@ hugo server -D
 
 安装插件: 浏览, 搜索 Enveloppe, 安装即可: 
 
-![Plugin.png](/images/Plugin.png)
+![Plugin.png](./images/Plugin.png)
 
 配置 Enveloppe 参数: [Enveloppe Config](https://github.com/miaogaolin/obsidian-github-publisher-hugo/blob/main/settings.json)
 
-![Enveloppe Config.png](/images/Enveloppe%20Config.png)
+![Enveloppe Config.png](./images/Enveloppe%20Config.png)
 
 再配置 Github 参数: 
 
-![Enveloppe Github Config.png](/images/Enveloppe%20Github%20Config.png)
+![Enveloppe Github Config.png](./images/Enveloppe%20Github%20Config.png)
 
 写完博客后 `ctrl + p` 打开 Obsidian 的命令再搜索 Enveloppe Refresh ... 相关的命令执行即可将文章远程同步和发布
 
@@ -180,11 +180,11 @@ hugo server -D
 
 时间: (注意 Time format)
 
-![Templates Time.png](/images/Templates%20Time.png)
+![Templates Time.png](./images/Templates%20Time.png)
 
 模板 (Templates):
 
-![Templates Property.png](/images/Templates%20Property.png)
+![Templates Property.png](./images/Templates%20Property.png)
 
 使用时点击左侧插入模板即可:
 
