@@ -50,7 +50,7 @@ params:
 
   label:
     text: "TRG's Blog"
-    icon: "https://blogs.rouper.site/icon.svg"
+    icon: "/icon.svg"
     iconHeight: 35
 
   # profile-mode
@@ -114,7 +114,7 @@ menu:
       weight: 20
     - identifier: search
       name: Search
-      url: search/
+      url: /search/
       weight: 25
     - identifier: Github
       name: Github
