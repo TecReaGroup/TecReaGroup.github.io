@@ -1,0 +1,20 @@
+{{- /* 添加额外的 favicon 和 SEO meta 标签 */ -}}
+<link rel="shortcut icon" href="{{ "/icon.ico" | absURL }}">
+<link rel="icon" type="image/x-icon" href="{{ "/icon.ico" | absURL }}">
+<link rel="icon" type="image/png" sizes="192x192" href="{{ "/icon.png" | absURL }}">
+<link rel="icon" type="image/png" sizes="512x512" href="{{ "/icon.png" | absURL }}">
+
+{{- /* Open Graph (社交媒体分享) */ -}}
+<meta property="og:image" content="{{ "/icon.png" | absURL }}">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+
+{{- /* Twitter Card */ -}}
+<meta name="twitter:image" content="{{ "/icon.png" | absURL }}">
+
+{{- /* 针对 Microsoft Edge 和 Windows */ -}}
+<meta name="msapplication-TileImage" content="{{ "/icon.png" | absURL }}">
+<meta name="msapplication-config" content="{{ "/browserconfig.xml" | absURL }}">
+
+{{- /* Web App Manifest (PWA) */ -}}
+<link rel="manifest" href="{{ "/site.webmanifest" | absURL }}">

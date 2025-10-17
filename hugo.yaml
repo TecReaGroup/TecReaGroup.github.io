@@ -42,11 +42,11 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "https://blogs.rouper.site/icon.svg"
-    favicon16x16: "https://blogs.rouper.site/icon.svg"
-    favicon32x32: "https://blogs.rouper.site/icon.svg"
-    apple_touch_icon: "https://blogs.rouper.site/icon.svg"
-    safari_pinned_tab: "https://blogs.rouper.site/icon.svg"
+    favicon: "/icon.ico"
+    favicon16x16: "/icon.png"
+    favicon32x32: "/icon.png"
+    apple_touch_icon: "/icon.png"
+    safari_pinned_tab: "/icon.svg"
 
   label:
     text: "TRG's Blog"
