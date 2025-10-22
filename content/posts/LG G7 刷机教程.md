@@ -20,7 +20,7 @@ ShowWordCount: "true"
 ShowRssButtonInSectionTermList: "true"
 UseHugoToc: "true"
 ---
-### **LG 手机刷机指南
+### LG 手机刷机指南
 
 推荐使用`冷亦辰官改系统`，不太涉及细节操作，主要为刷机教程总览，细节操作多为引用（若引用失效，自行上网搜索类似教程，也可以逛逛 XDA 论坛）
 
