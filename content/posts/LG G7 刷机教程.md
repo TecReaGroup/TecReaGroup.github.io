@@ -20,7 +20,7 @@ ShowWordCount: "true"
 ShowRssButtonInSectionTermList: "true"
 UseHugoToc: "true"
 ---
-### LG 手机刷机指南
+## LG G7 手机刷机指南
 
 推荐使用`冷亦辰官改系统`，不太涉及细节操作，主要为刷机教程总览，细节操作多为引用（若引用失效，自行上网搜索类似教程，也可以逛逛 XDA 论坛）
 
@@ -40,7 +40,7 @@ UseHugoToc: "true"
 - 进入Recovery， 删除 Data 数据，重启**两次**手机（第一次启动后，可能出现导航栏仅“返回”键可用或状态栏无法下拉的情况，**重启手机**即可解决。）
 - 刷入 Magisk 模块，以及 LSPosed 等工具
 
-#### 一、刷机前：准备与检查
+## 一、刷机前：准备与检查
 
 在开始刷机之前，请务必完成以下检查步骤：
 
@@ -63,7 +63,7 @@ UseHugoToc: "true"
 
 ---
 
-#### 二、系统刷入
+## 二、系统刷入
 
 通常有三种格式，对应不同的刷入方法：
 
@@ -95,7 +95,7 @@ UseHugoToc: "true"
 ---
 
 
-#### 四、性能优化与高级玩法
+## 四、性能优化与高级玩法
 
 为了获得更强大的功能和更流畅的体验，可以进行以下高级设置：
 
@@ -112,7 +112,7 @@ UseHugoToc: "true"
     *   **openEUICC**:  EUICC 这类 esim 卡的操作
 ---
 
-#### 五、官改系统的核心优势
+## 五、官改系统的核心优势
 
 相比 MIUI、Flyme 或类原生等第三方系统，LG 官改系统拥有以下显著优势：
 
@@ -129,7 +129,7 @@ UseHugoToc: "true"
 
 ---
 
-#### 参考资料：
+## 参考资料：
 - [酷安](https://www.coolapk.com/feed/49594277?s=MTY5MDI0NGExNTE2NjE4ZzY4Zjg3ZTkyegi1531&shareUid=22111768&shareFrom=com.coolapk.app_15.3.1)
 - [知乎](https://zhuanlan.zhihu.com/p/638748372)
 ...
