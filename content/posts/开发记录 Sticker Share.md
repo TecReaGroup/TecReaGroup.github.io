@@ -23,9 +23,9 @@ Github 地址: [Sticker-Share.](https://github.com/TecReaGroup/Sticker-Share)
 Sticker Share：管理和分享动画贴纸到各种消息平台
 
 <p align = "center">
-  <img src="wechat.jpg" width="30%" />
-  <img src="homeScreen.jpg" width="30%" />
-  <img src="wechat.jpg" width="30%" />
+  <img src="./images/wechat.jpg" width="30%" />
+  <img src="./images/homeScreen.jpg" width="30%" />
+  <img src="./images/wechat.jpg" width="30%" />
 </p>
 
 ## 说明
