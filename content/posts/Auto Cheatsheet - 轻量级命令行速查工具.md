@@ -18,15 +18,10 @@ ShowWordCount: "true"
 ShowRssButtonInSectionTermList: "true"
 UseHugoToc: "true"
 ---
-
-
 **GitHub**: [auto_cheatsheet](https://github.com/yourusername/auto_cheatsheet)
 ## 项目简介
 
 Auto Cheatsheet 是一个轻量级的桌面应用，专为开发者设计，用于快速查看和管理命令行速查表。通过悬浮球界面，你可以随时随地访问常用命令，无需离开当前工作流程。
-
-
-
 
 <p align = "center">
 
@@ -39,7 +34,6 @@ Auto Cheatsheet 是一个轻量级的桌面应用，专为开发者设计，用�
 ### YAML 文件
 
 LLM 自动生成 YAML 文件，也支持自己编写 YAML 文件，自动生成 SVG 速查表：
-
 
 ```yaml
 
@@ -64,5 +58,4 @@ sections:
 ```
 
 
-
-  
+最后感慨一下 `pyside` 写 `UI` 好麻烦啊，怀念 `Flutter` 了
