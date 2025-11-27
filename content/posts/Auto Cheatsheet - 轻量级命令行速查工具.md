@@ -23,9 +23,8 @@ UseHugoToc: "true"
 
 Auto Cheatsheet 是一个轻量级的桌面应用，专为开发者设计，用于快速查看和管理命令行速查表。通过悬浮球界面，你可以随时随地访问常用命令，无需离开当前工作流程。
 
-![main_menu](https://github.com/TecReaGroup/auto_cheatsheet/blob/master/asset/images/main_menu.png?raw=true" width="30%)
-
-![main_menu](https://github.com/TecReaGroup/auto_cheatsheet/blob/master/asset/images/svg_viewer.png?raw=true" width="30%)
+![main_menu](https://github.com/TecReaGroup/auto_cheatsheet/blob/master/asset/images/main_menu.png?raw=true)
+![main_menu](https://github.com/TecReaGroup/auto_cheatsheet/blob/master/asset/images/svg_viewer.png?raw=true)
 ### YAML 文件
 
 LLM 自动生成 YAML 文件，也支持自己编写 YAML 文件，自动生成 SVG 速查表：
