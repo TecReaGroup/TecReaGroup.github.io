@@ -18,7 +18,7 @@ ShowWordCount: "true"
 ShowRssButtonInSectionTermList: "true"
 UseHugoToc: "true"
 ---
-**GitHub**: [auto_cheatsheet](https://github.com/yourusername/auto_cheatsheet)
+**GitHub**: [auto_cheatsheet](https://github.com/TecReaGroup/auto_cheatsheet)
 ## 项目简介
 
 Auto Cheatsheet 是一个轻量级的桌面应用，专为开发者设计，用于快速查看和管理命令行速查表。通过悬浮球界面，你可以随时随地访问常用命令，无需离开当前工作流程。
