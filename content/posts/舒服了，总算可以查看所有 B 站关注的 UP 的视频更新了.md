@@ -18,11 +18,12 @@ ShowWordCount: "true"
 ShowRssButtonInSectionTermList: "true"
 UseHugoToc: "true"
 ---
-
 Preview：
+
 ![Pasted image 20251218061807.png](/images/Pasted%20image%2020251218061807.png)
 
 插件：[Release 1.4.10 plus · TecReaGroup/BewlyCat](https://github.com/TecReaGroup/BewlyCat/releases/tag/release)
+
 原仓库（已经 PR）：[keleus/BewlyCat: BewlyCat——基于BewlyBewly开发的Bilibili拓展](https://github.com/keleus/BewlyCat)
 
 B 站其实算是简中资源比较优秀了，但是它的推广机制，还有查看关注的 UP 机制和算法很恶心。简单点说就是它只展示小几十个 UP 的更新，但是我关注了不就是为了看它们视频吗？？不推送也就算了，动态里还不给加载完。
